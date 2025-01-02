@@ -1,0 +1,20 @@
+{
+  "name": "my-podcast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/anthropic": "^0.3.11",
+    "@langchain/core": "^0.3.26",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.7",
+    "zod": "^3.24.1"
+  }
+}
